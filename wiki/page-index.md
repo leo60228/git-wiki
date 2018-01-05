@@ -1,4 +1,4 @@
 This is an index of pages on this wiki.
 
-* [Homepage](../)
+* [Homepage](..)
 * [Page Index](page-index)
