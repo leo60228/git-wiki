@@ -8,4 +8,4 @@ Welcome to TCGWiki! This is a wiki focusing on semi-subjective content for the P
 * Speculative and historical information on major events
 * Pages on playing the game in specific medium-to-large cities
 
-You can find the [Page Index](wiki/page-index.md) on the sidebar. If you add a new pages, also add it to the index.
+You can find the [Page Index](/wiki/page-index.md) on the sidebar. If you add a new pages, also add it to the index.
