@@ -7,5 +7,5 @@ This is an index of pages on this wiki.
 * [Combining Spread Damage and Devolving](spread-devolve)
 
 ## Miscellaneous
-* [Homepage](..)
+* [Contributing](contributing)
 * [Page Index](page-index)
