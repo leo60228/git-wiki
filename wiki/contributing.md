@@ -1,3 +1,6 @@
+---
+title: Contributing
+---
 This is a guide on how to contribute to TCGWiki.
 
 1. Go to `https://leo60228.github.io/tcgwiki/wiki/`*`your page's name`* to make a new page OR click the edit button on an existing page.
