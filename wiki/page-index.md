@@ -9,6 +9,9 @@ This is an index of pages on this wiki.
 ## Archetype Write-Ups
 * [Combining Spread Damage and Devolving](spread-devolve)
 
+## Decklist Articles
+* [The Quest for the Cheapest Deck](quest-for-the-cheapest-deck)
+
 ## Miscellaneous
 * [Contributing](contributing)
 * [Page Index](page-index)
