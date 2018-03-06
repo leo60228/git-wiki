@@ -1,8 +1,10 @@
 ---
 title: The Quest for the Cheapest Deck
 ---
+# Preface
 I saw the Theme to Standard Imperial Command video, and I had 2 thoughts. First, $80 is a *lot* for the majority of new players, in the 8-12 age group, and with some thought it could easily get cheaper. 2nd, some cards could be replaced with "simpler" versions while remaining competitive, namely N. So, let’s start from the beginning, looking at what we have from the theme deck:
 
+# Theme Deck
 * 2x Empoleon
 * 2x Prinplup
 * 3x Piplup
@@ -27,9 +29,8 @@ I saw the Theme to Standard Imperial Command video, and I had 2 thoughts. First,
 * 1x Ultra Ball
 * 20x Water Energy
 
-Next, let's sort out the trash cards:
-
 # Trash
+Next, let's sort out the trash cards:
 
 * 2x Floatzel
 * 2x Buizel
@@ -39,9 +40,10 @@ Next, let's sort out the trash cards:
 * 2x Sophocles
 * Total: 12
 
+# Categories
 Surprisingly few trash cards for a theme deck! Not like we'll be able to use all of the non-trash cards, but it's a good start. Now, let's sort the remainder into Attack, Consistency, and Other:
 
-# Attack
+## Attack
 
 * 2x Empoleon
 * 2x Prinplup
@@ -49,7 +51,7 @@ Surprisingly few trash cards for a theme deck! Not like we'll be able to use all
 * 2x Professor Kukui
 * Total: 9
 
-# Consistency
+## Consistency
 
 * 2x Abomasnow
 * 3x Snover
@@ -62,16 +64,17 @@ Surprisingly few trash cards for a theme deck! Not like we'll be able to use all
 * 1x Ultra Ball
 * Total: 17
 
-# Other
+## Other
 
 * 1x Escape Board
 * 1x Escape Rope
 * 1x Rescue Stretcher
 * Total: 3
 
+# Cards from Imperial Command
 We’ll want all of the trainers except a few where we need more space for new ones; all trainers that aren’t trash fit, and even the trash ones fit the theme of the deck. This really only became common in the Sun/Moon era, but it’s certainly nice. Sandslash is definitely necessary; it’s a somewhat worse, less random Octillery, and considering it’s free in this deck it’s an obvious inclusion. Empoleon is going in, obviously, since it’s the main attacker. That leaves Abomasnow; it *could* go in to fill the bench, but you should have backup attackers, whether they’re evolved or not, and it’s preferable to have 2 Sandslash. However, a 1-1 line helps fill the bench, especially since we don’t have Tapu Lele-GX. So, let’s look at our deck list so far:
 
-# Pokémon
+## Pokémon
 
 * 2x Empoleon
 * 2x Prinplup
@@ -82,7 +85,7 @@ We’ll want all of the trainers except a few where we need more space for new o
 * 2x Alolan Sandshrew
 * Total: 13
 
-# Trainers:
+## Trainers:
 
 * 1x Aqua Patch
 * 1x Lillie
@@ -97,9 +100,10 @@ We’ll want all of the trainers except a few where we need more space for new o
 
 Grand Total: 25
 
+# Increased Counts
 25 cards isn’t even half a deck. However, we can get much closer by boosting counts of cards:
 
-# Pokémon
+## Pokémon
 
 * 4x Empoleon
 * 3x Prinplup
@@ -110,7 +114,7 @@ Grand Total: 25
 * 2x Alolan Sandshrew
 * Total: 17
 
-# Trainers:
+## Trainers:
 
 * 4x Aqua Patch
 * 3x Lillie
@@ -125,9 +129,10 @@ Grand Total: 25
 
 Grand Total: 37
 
+# Improving Trainers
 We’re getting there! Now, let’s add some basic consistency trainers. We’ll also add 2 Wicke, as in the case of punishing overeager Ultra Balls, it can serve as a mini-N to prepare new players for higher level play. It can also be a hand-refresher if you have a hand you can’t play, and is much cheaper than N. We're using Random Receiver as a cheap alternative to more supporters; it should be swapped out for more supporters after rotation, but that shouldn’t happen before they have more cards. Lastly, we're adding some Rare Candies.  I’m using only 3 Cynthia, as Cynthia is the most expensive card in this deck.
 
-# Pokémon
+## Pokémon
 
 * 4x Empoleon
 * 3x Prinplup
@@ -138,7 +143,7 @@ We’re getting there! Now, let’s add some basic consistency trainers. We’ll
 * 2x Alolan Sandshrew
 * Total: 17
 
-# Trainers:
+## Trainers:
 
 * 4x Aqua Patch
 * 3x Lillie
@@ -157,9 +162,10 @@ We’re getting there! Now, let’s add some basic consistency trainers. We’ll
 
 Grand Total: 48
 
+# Full List
 This leaves us 12 spots for energy, and a very cheap deck that remains competitive! I’m using a 9/3 split of basic and Splash Energy, so that a Prinplup on the bench can be evolved immediately after getting knocked out. Splash Energy will rotate out, but is definitely a good card before then.
 
-# Pokémon
+## Pokémon
 
 * 4x Empoleon
 * 3x Prinplup
@@ -170,7 +176,7 @@ This leaves us 12 spots for energy, and a very cheap deck that remains competiti
 * 2x Alolan Sandshrew
 * Total: 17
 
-# Trainers:
+## Trainers:
 
 * 4x Aqua Patch
 * 3x Lillie
@@ -187,7 +193,7 @@ This leaves us 12 spots for energy, and a very cheap deck that remains competiti
 * 3x Rare Candy
 * Total: 31
 
-# Energy
+## Energy
 
 * 9x Water Energy
 * 3x Splash Energy
@@ -197,6 +203,7 @@ Grand Total: 60
 
 Boom! A 60 card deck. Now, what’s the cost breakdown?
 
+# Cost Breakdown
 <table>
   <tr>
     <th>Item</th>
@@ -264,5 +271,5 @@ Boom! A 60 card deck. Now, what’s the cost breakdown?
   </tr>
 </table>
 
-
+# Closing
 Now, we’re at the *very* manageable price of $28.16, with that going up to around $32 without a 20% off coupon on the theme deck. Nice! This deck is easy to suggest to new players, and allows them to try the competitive game without breaking the bank. One thing you may not have realized: swap out the evolution lines, and you have a viable Zoroark-GX / Greninja-GX deck, with an easy fit for a Greninja BREAK soft-tech! Swap out more than 1 trainer, and you can even make a Greninja BREAK deck by taking out the Alolan Sandslash, making this a great deck for later upgrades.
