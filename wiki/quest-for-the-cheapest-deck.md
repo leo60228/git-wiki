@@ -210,7 +210,7 @@ Boom! A 60 card deck. Now, what’s the cost breakdown?
   </tr>
   <tr>
     <td>Imperial Command</td>
-    <td>$10.08 from Walmart with 20% off coupon (Google Express GOSHOP20)</td>
+    <td>$10.08 from Walmart with 20% off coupon (Google Express STOCKUP20)</td>
   </tr>
   <tr>
     <td>2x Empoleon UPR</td>
