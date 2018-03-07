@@ -85,7 +85,7 @@ We’ll want all of the trainers except a few where we need more space for new o
 * 2x Alolan Sandshrew
 * Total: 13
 
-## Trainers:
+## Trainers
 
 * 1x Aqua Patch
 * 1x Lillie
@@ -114,7 +114,7 @@ Grand Total: 25
 * 2x Alolan Sandshrew
 * Total: 17
 
-## Trainers:
+## Trainers
 
 * 4x Aqua Patch
 * 3x Lillie
@@ -143,7 +143,7 @@ We’re getting there! Now, let’s add some basic consistency trainers. We're u
 * 2x Alolan Sandshrew
 * Total: 17
 
-## Trainers:
+## Trainers
 
 * 4x Aqua Patch
 * 3x Lillie
@@ -176,7 +176,7 @@ This leaves us 14 spots for other cards! We're adding 2 Alolan Vulpix to help ge
 * 2x Alolan Vulpix
 * Total: 19
 
-## Trainers:
+## Trainers
 
 * 4x Aqua Patch
 * 3x Lillie
