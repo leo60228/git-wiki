@@ -130,7 +130,7 @@ Grand Total: 25
 Grand Total: 37
 
 # Improving Trainers
-We’re getting there! Now, let’s add some basic consistency trainers. We’ll also add 2 Wicke, as in the case of punishing overeager Ultra Balls, it can serve as a mini-N to prepare new players for higher level play. It can also be a hand-refresher if you have a hand you can’t play, and is much cheaper than N. We're using Random Receiver as a cheap alternative to more supporters; it should be swapped out for more supporters after rotation, but that shouldn’t happen before they have more cards. Lastly, we're adding some Rare Candies.  I’m using only 3 Cynthia, as Cynthia is the most expensive card in this deck.
+We’re getting there! Now, let’s add some basic consistency trainers. We're using Random Receiver as a cheap alternative to more supporters; it should be swapped out for more supporters after rotation, but that shouldn’t happen before they have more cards. Lastly, we're adding some Rare Candies.  I’m using only 3 Cynthia, as Cynthia is the most expensive card in this deck.
 
 ## Pokémon
 
@@ -155,15 +155,14 @@ We’re getting there! Now, let’s add some basic consistency trainers. We’ll
 * 2x Escape Board
 * 1x Escape Rope
 * 3x Cynthia
-* 2x Wicke
 * 3x Rare Candy
 * 3x Random Receiver
-* Total: 31
+* Total: 29
 
-Grand Total: 48
+Grand Total: 46
 
 # Full List
-This leaves us 12 spots for energy, and a very cheap deck that remains competitive! I’m using a 9/3 split of basic and Splash Energy, so that a Prinplup on the bench can be evolved immediately after getting knocked out. Splash Energy will rotate out, but is definitely a good card before then.
+This leaves us 14 spots for other cards! We're adding 2 Alolan Vulpix to help get started early-game. For the remaining 12 spots, I’m using a 9/3 split of basic and Splash Energy, so that a Prinplup on the bench can be evolved immediately after getting knocked out. Splash Energy will rotate out, but is definitely a good card before then.
 
 ## Pokémon
 
@@ -174,7 +173,8 @@ This leaves us 12 spots for energy, and a very cheap deck that remains competiti
 * 1x Snover
 * 2x Alolan Sandslash
 * 2x Alolan Sandshrew
-* Total: 17
+* 2x Alolan Vulpix
+* Total: 19
 
 ## Trainers:
 
@@ -188,10 +188,9 @@ This leaves us 12 spots for energy, and a very cheap deck that remains competiti
 * 2x Escape Board
 * 1x Escape Rope
 * 3x Cynthia
-* 2x Wicke
 * 3x Random Receiver
 * 3x Rare Candy
-* Total: 31
+* Total: 29
 
 ## Energy
 
@@ -254,8 +253,8 @@ Boom! A 60 card deck. Now, what’s the cost breakdown?
     <td>$11.67</td>
   </tr>
   <tr>
-    <td>2x Wicke BUS</td>
-    <td>$0.17</td>
+    <td>2x Alolan Vulpix GRI</td>
+    <td>$0.50</td>
   </tr>
   <tr>
     <td>3x Rare Candy PRC</td>
@@ -267,9 +266,9 @@ Boom! A 60 card deck. Now, what’s the cost breakdown?
   </tr>
   <tr>
     <td>Total Cost:</td>
-    <td>$28.16</td>
+    <td>$28.49</td>
   </tr>
 </table>
 
 # Closing
-Now, we’re at the *very* manageable price of $28.16, with that going up to around $32 without a 20% off coupon on the theme deck. Nice! This deck is easy to suggest to new players, and allows them to try the competitive game without breaking the bank. One thing you may not have realized: swap out the evolution lines, and you have a viable Zoroark-GX / Greninja-GX deck, with an easy fit for a Greninja BREAK soft-tech! Swap out more than 1 trainer, and you can even make a Greninja BREAK deck by taking out the Alolan Sandslash, making this a great deck for later upgrades.
+Now, we’re at the *very* manageable price of $28.49, with that going up to around $32 without a 20% off coupon on the theme deck. Nice! This deck is easy to suggest to new players, and allows them to try the competitive game without breaking the bank. One thing you may not have realized: swap out the evolution lines, and you have a viable Zoroark-GX / Greninja-GX deck, with an easy fit for a Greninja BREAK soft-tech! Swap out more than 1 trainer, and you can even make a Greninja BREAK deck by taking out the Alolan Sandslash, making this a great deck for later upgrades. And, for some cheaper upgrades, they can mix-and-match this deck with the much more competitive [Theme to Standard: Imperial Command](https://www.youtube.com/watch?v=R6KZQSgf870) deck.
